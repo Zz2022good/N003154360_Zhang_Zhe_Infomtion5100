@@ -1,0 +1,22 @@
+{
+  "BookShelf": [
+    {
+      "title": "Java Basics",
+      "publishedYear": 2020,
+      "numberOfPages": 300,
+      "authors": ["John Smith", "Mary Lee"]
+    },
+    {
+      "title": "Learning XML",
+      "publishedYear": 2018,
+      "numberOfPages": 250,
+      "authors": ["Tom Brown"]
+    },
+    {
+      "title": "JSON for Beginners",
+      "publishedYear": 2022,
+      "numberOfPages": 180,
+      "authors": ["Alice Green", "David White"]
+    }
+  ]
+}

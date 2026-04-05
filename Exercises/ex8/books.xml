@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookShelf>
+    <Book>
+        <title>Java Basics</title>
+        <publishedYear>2020</publishedYear>
+        <numberOfPages>300</numberOfPages>
+        <authors>
+            <author>John Smith</author>
+            <author>Mary Lee</author>
+        </authors>
+    </Book>
+
+    <Book>
+        <title>Learning XML</title>
+        <publishedYear>2018</publishedYear>
+        <numberOfPages>250</numberOfPages>
+        <authors>
+            <author>Tom Brown</author>
+        </authors>
+    </Book>
+
+    <Book>
+        <title>JSON for Beginners</title>
+        <publishedYear>2022</publishedYear>
+        <numberOfPages>180</numberOfPages>
+        <authors>
+            <author>Alice Green</author>
+            <author>David White</author>
+        </authors>
+    </Book>
+</BookShelf>
