@@ -165,7 +165,7 @@ public class Main {
         }
     }
 
-    @SuppressWarnings("unchecked")
+    
     public static void addBookToJSON(JSONObject jsonObject, String title, int publishedYear,
                                      int numberOfPages, String[] authors) {
 
