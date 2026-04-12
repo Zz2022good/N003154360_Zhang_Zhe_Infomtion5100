@@ -128,7 +128,7 @@ public class Exercise6 {
             // Asymmetric Encryption / Decryption
             String asymmetricMessage = "Hello Bob, this is a secret RSA message from Alice.";
 
-            System.out.println("Asymmetric Encryption / Decryption (RSA-2048) -----");
+            System.out.println("Asymmetric Encryption and Decryption using RSA-2048");
             System.out.println("Original Message: " + asymmetricMessage);
 
             // Alice encrypts using Bob's public key
@@ -144,7 +144,7 @@ public class Exercise6 {
             // validating signature
             String signedMessage = "Hello Bob, please verify that this message really came from Alice.";
 
-            System.out.println("----- Digital Signature / Verification -----");
+            System.out.println(" Digital Signature / Verification ");
             System.out.println("Message to Sign: " + signedMessage);
 
 
